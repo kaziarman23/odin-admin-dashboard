@@ -1,0 +1,41 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.full_wrapper{
+    width: 100%;
+}
+
+.wrapper{
+    width: 960px;
+    height:auto;
+    margin: 0 auto;
+}
+
+/* header_part */
+
+.header{
+    width: 624px;
+    height: auto;
+    background-color: #ffffff;
+}
+/* header_part */
+/* sidebar_part */
+
+.sidebar{
+    width: 336px;
+    height: 800px;
+    background-color: #1992d4;
+}
+
+/* sidebar_part */
+/* main_content_part */
+
+.content{
+
+}
+
+/* main_content_part */
