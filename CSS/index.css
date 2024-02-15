@@ -137,6 +137,169 @@
     background-color: #1992d4;
 }
 
+.sidebar_contener{
+    color: white;
+    display: grid;
+    grid-template-columns: 190px;
+    grid-template-rows: 70px repeat(6, 45px) 100px repeat(3, 50px);
+    
+}
+
+.sidebar_div1{
+    grid-row: 1/2;
+    text-align: center;
+    margin-top: 10px;
+    position: relative;
+}
+
+.sidebar_div1 h1{
+    top: 10px;
+    left: 20px;
+    position: absolute;
+}
+
+.sidebar_div1 img{
+    bottom: 30px;
+    width: 30px;
+    height: 30px;
+    left: 7px;
+    position: absolute;
+}
+
+.sidebar_div2{
+    text-align: center;
+    grid-row: 2/3;
+    position: relative;
+}
+
+.sidebar_div2 img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+
+.sidebar_div3{
+    text-align: center;
+    grid-row: 3/4;
+    position: relative;
+}
+
+
+.sidebar_div3 img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    bottom: 17px;
+    left: 20px;
+}
+
+.sidebar_div4{
+    text-align: center;
+    grid-row: 4/5;
+    position: relative;
+}
+
+
+.sidebar_div4 img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+
+.sidebar_div5{
+    text-align: center;
+    grid-row: 5/6;
+    position: relative;
+}
+
+
+.sidebar_div5 img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    bottom: 17px;
+    left: 20px;
+}
+
+.sidebar_div6{
+    text-align: center;
+    grid-row: 6/7;
+    position: relative;
+}
+
+
+.sidebar_div6 img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    bottom: 17px;
+    left: 20px;
+}
+
+.sidebar_div7{
+    text-align: center;
+    grid-row: 7/8;
+    position: relative;
+}
+
+
+.sidebar_div7 img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+
+.sidebar_div9{
+    text-align: center;
+    grid-row: 9/10;
+    position: relative;
+}
+
+.sidebar_div9 img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+
+
+.sidebar_div10{
+    text-align: center;
+    grid-row: 10/11;
+    position: relative;
+}
+
+.sidebar_div10 img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+
+
+.sidebar_div11{
+    text-align: center;
+    grid-row: 11/12;
+    position: relative;
+}
+
+.sidebar_div11 img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+
+
 /* sidebar_part */
 /* main_content_part */
 
